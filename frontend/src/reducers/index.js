@@ -12,8 +12,8 @@ const initialState = {
   page: "user",
   messages: [
     {
-      message: "scsdc",
-      displayName: "acacwefvwevrvr",
+      message: "Hi",
+      displayName: "aviva",
       timestamp: "Mon Oct 24 2022",
     },
   ],
